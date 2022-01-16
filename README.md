@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gautham R
+- 👋 Hi, I’m Gautham R
 - 👀 I’m interested in Data!.... Studying, Analyzing & Interpreting it!
 - 🌱 I’m currently acquiring The Wisdom to Read Data.
 
