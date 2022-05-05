@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautham aka Gauri/Gauti
+- 👋 Hi, I’m Gautham aka Gaurii.
 - 👀 I’m interested in Data!.... Studying, Analyzing & Interpreting it!
 
 
