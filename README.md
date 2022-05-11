@@ -17,7 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-py&show_icons=true&locale=en&layout=compact" alt="gautham-py" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en" alt="gautham-py" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&" alt="gautham-py" /></p>
 
