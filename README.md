@@ -1,11 +1,11 @@
 <h1 align="center">Hi 😇, I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
-- 💬 Ask me about **Comics📗**
+- 💬 Ask me about ~ **Comics📗**
 
-- 📫 How to reach me **Give a Huge ShoutOut... and I shall appear!👽**
+- 📫 How to reach me ~ **Give a Huge ShoutOut... and I shall appear!👽**
 
-- ⚡ Fun fact **How to print "abcd..." without typing "abcd...."?**
+- ⚡ Fun fact ~ **How to print "abcd..." without typing "abcd...."?**
 - ```python
   for i in range(96,123):
         i = chr(i)
