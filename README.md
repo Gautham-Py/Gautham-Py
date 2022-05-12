@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
-- 💬 Ask me about **Women(Haha....Kidding!)**
+- 💬 Ask me about **Comics**
 
 - 📫 How to reach me **Give a Huge ShoutOut... and I shall appear!!**
 
