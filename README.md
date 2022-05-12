@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gautham a.k.a Gaurii</h1>
+<h1 align="center">Hi 😇, I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
-- 💬 Ask me about **Comics**
+- 💬 Ask me about **Comics📗**
 
-- 📫 How to reach me **Give a Huge ShoutOut... and I shall appear!!**
+- 📫 How to reach me **Give a Huge ShoutOut... and I shall appear!👽**
 
 - ⚡ Fun fact **How to print "abcd..." without typing "abcd...."?**
+- ```python
+  for i in range(96,123):
+        i = chr(i)
+        print(i) 
+  ```  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,20 +22,25 @@
 
 
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en" alt="gautham-py" /></p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautham-py&show_icons=true&locale=en&layout=compact" alt="gautham-py" /></p>
+```
 
+    :::::        ::        ::       ::  :: :: :: ::   💚  💙  
+  ::           ::  ::      ::       ::  ::       ::   ::   ::
+ ::           ::    ::     ::       ::  ::            ::   ::  
+::     ::    ::::::::::    ::       ::  ::            ::   ::   
+ ::    ::   ::        ::   ::       ::  ::            ::   ::   
+   ::::::  ::          ::  :::::::::::  ::            ::   :: 
 
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en" alt="gautham-py" /></p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&" alt="gautham-py" /> </p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&" alt="gautham-py" /></p>
 
 
 
 <!---
-Gautham-Py/Gautham-Py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/Gautham-Py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
