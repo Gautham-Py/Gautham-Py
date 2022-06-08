@@ -41,7 +41,7 @@
 
 
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&theme=highcontrast" alt="gautham-py" /> </p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&theme=highcontrast&border=008000&stroke=008000" alt="gautham-py" /> </p>
 
 <!---
 /Gautham-Py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
