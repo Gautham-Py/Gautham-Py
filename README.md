@@ -1,4 +1,4 @@
-<h1 align="center">Hey 😇 I'm Gautham a.k.a Gauti</h1>
+<h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
 - 💬 Ask me about ~ **Comics📗**
@@ -28,7 +28,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en" alt="gautham-py" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en&title_color=e67e22&bg_color=000000&text_color=FFFFFF&border=008000" alt="gautham-py" /></p> 
 
 ```
     :::::       ::       ::       ::  :::::::.  🤍   🤍
@@ -41,7 +41,7 @@
 
 
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&theme=highcontrast&border=008000&stroke=008000" alt="gautham-py" /> </p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-py&theme=highcontrast&border=FFFFFF&stroke=FFFFFF" alt="gautham-py" /> </p>
 
 <!---
 /Gautham-Py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
