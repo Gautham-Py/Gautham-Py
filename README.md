@@ -1,4 +1,4 @@
-<h1 align="center">Hey 😇 I'm Gautham a.k.a Gauti</h1>
+<h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
 - 💬 Ask me about ~ **Comics📗**
