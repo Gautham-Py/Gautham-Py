@@ -1,5 +1,4 @@
-![Gatsby](https://user-images.githubusercontent.com/94351317/177014006-9db3c86f-9a32-4bf9-bbb2-69ae4b88af46.jpg)
-
+![66](https://user-images.githubusercontent.com/94351317/177014240-03514973-4f4f-4e65-929d-0686acfa47ad.jpg)
 <h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
