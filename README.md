@@ -1,5 +1,5 @@
 ![66](https://user-images.githubusercontent.com/94351317/177014240-03514973-4f4f-4e65-929d-0686acfa47ad.jpg)
-<h1 align="center">Hey 😇 I'm Gautham a.k.a Gauti</h1>
+<h1 align="center">Hey 😇 I'm Gautham a.k.a Gauti Day-10</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
 - 💬 Ask me about ~ **Comics📗**
