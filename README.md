@@ -6,7 +6,7 @@
 
 - 📫 How to reach me ~ **Give a Huge ShoutOut... and I shall appear!👽**
 
-- ⚡ Fun fact ~ **How to print "abcd..." without typing "abcd...."?**
+- ⚡ Fun fact ~ **How to print "abcde..." without typing "abcde...."?**
 - ```python
   for i in range(96,123):
         i = chr(i)
