@@ -1,5 +1,6 @@
 
 
+https://user-images.githubusercontent.com/94351317/177527028-a01ac547-7dfe-4cd4-92d2-fd01ccaf20f2.mov
 <h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
