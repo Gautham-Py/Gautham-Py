@@ -1,7 +1,4 @@
-
-
-https://user-images.githubusercontent.com/94351317/177527194-aa56c019-9529-49e7-ba34-cdbcdce01798.MP4
-
+![111](https://user-images.githubusercontent.com/94351317/177532450-990dc44a-3a39-440e-ae63-1b50e5d1dd8a.jpg)
 
 <h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
