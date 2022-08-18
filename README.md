@@ -1,5 +1,6 @@
 ![111](https://user-images.githubusercontent.com/94351317/177532450-990dc44a-3a39-440e-ae63-1b50e5d1dd8a.jpg)
 
+
 <h1 align="center">Hey 😇 I'm Gautham a.k.a Gaurii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
@@ -33,7 +34,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en&title_color=e67e22&bg_color=000000&text_color=FFFFFF&border=008000" alt="gautham-py" /></p> 
 
 ```
-    :::::       ::       ::       ::  :::::::.  👁️   👁️
+    :::::       ::       ::       ::  :::::::.  ✔    ✔
   ::           ::::      ::       ::  ::    ::  ::   ::
  ::           ::  ::     ::       ::  ::        ::   ::  
 ::     ::    :: :: ::    ::       ::  ::        ::   ::   
