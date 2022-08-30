@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gautham-py&show_icons=true&locale=en&title_color=e67e22&bg_color=000000&text_color=FFFFFF&border=008000" alt="gautham-py" /></p> 
 
 ```
-    :::::       ::       ::       ::  :::::::.  ☯    ☯
+    :::::       ::       ::       ::  :::::::.  🐕   🐶
   ::           ::::      ::       ::  ::    ::  ::   ::
  ::           ::  ::     ::       ::  ::        ::   ::  
 ::     ::    :: :: ::    ::       ::  ::        ::   ::   
