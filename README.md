@@ -1,7 +1,7 @@
 ![111](https://user-images.githubusercontent.com/94351317/177532450-990dc44a-3a39-440e-ae63-1b50e5d1dd8a.jpg)
 
 
-<h1 align="center">Hey 😇 I'm Gautham a.k.a Gauri</h1>
+<h1 align="center">Hey 😇 I'm Gautham a.k.a Gautii</h1>
 <h3 align="center">I’m interested in Data!.... Studying, Analyzing & Interpreting it!</h3>
 
 - 💬 Ask me about ~ **Comics📗**
